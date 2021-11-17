@@ -1,0 +1,4 @@
+#Fri Oct 01 19:07:38 IST 2021
+base.0=D\:\\Flutter Projects\\facebook\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
